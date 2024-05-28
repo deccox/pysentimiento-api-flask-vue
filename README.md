@@ -1,4 +1,4 @@
-# Projeto de Análise de Sentimento atravez de PNL
+# Projeto de Análise de Sentimento através de PNL
 
 ## Introdução
 
