@@ -37,6 +37,16 @@ _____________________
 O frontend em Vue.js oferece uma interface básica para o usuário interagir com a aplicação. Ele permite enviar arquivos CSV para a API Flask e exibe o resultado da análise de sentimentos realizada pela API.
 
   
+# Painel de uso
+
+
+Enviar os dados para análise e o resultado é mostrado logo ao lado, onde os níveis de sentimento Negativo - NEG, Positivo - POS e Neutro - NEU são retornados
+
+
+<p align="center">
+  <img src="/screenshots/panel1.jpeg" width="65%"/>
+  <img src="/screenshots/panel2.jpeg" width="65%"/>
+</p>
 
 # Como Usar
 
